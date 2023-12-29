@@ -14,11 +14,13 @@
 
 ## About Me
 
-* I am currently an undergraduate in the Computer Science and Engineering Department of University of Moratuwa, specializing in Data Science and Engineering.
-* I have a great zeal for exploring and applying techniques in Computer Science, Data Science and Machine Learning.
-* I am an avid self learner, public speaker and article writer.
-* I have good communication, team working, time management and problem solving skills.
+* Enthusiast by nature, I am on a quest to explore and apply techniques in the landscapes of Computer Science, Data Science and Machine Learning.
+* Constantly trying to develop solutions at the intersection of creativity and technology.
+* Currently engaged in a captivating research project that pushes me to transform its inherent challenges into small triumphs in the massive fields of Computer Vision, Deep Learning and Explainable Artifiical Intelligence.
+* If you have a project, an idea, or just a shared passion for technology, count me in!
+* I am alwyas eager to contribute, learn and grow alongside fellow enthusiasts.
 
+  
 ## Languages and Tools
 
 <div>
