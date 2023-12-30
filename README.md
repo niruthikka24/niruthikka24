@@ -14,7 +14,7 @@
 
 ## About Me
 
-* Enthusiast by nature, I am on a quest to explore and apply techniques in the landscapes of Computer Science, Data Science and Machine Learning.
+* Enthusiast by nature, I am on a quest to explore and apply techniques in the landscapes of Computer Science, Data Science, Machine Learning and Engineering.
 * Constantly trying to develop solutions at the intersection of creativity and technology.
 * Currently engaged in a captivating research project that pushes me to transform its inherent challenges into small triumphs in the massive fields of Computer Vision, Deep Learning and Explainable Artifiical Intelligence.
 * If you have a project, an idea, or just a shared passion for technology, count me in!
