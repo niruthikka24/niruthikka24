@@ -18,7 +18,7 @@
 * Constantly trying to develop solutions at the intersection of creativity and technology.
 * Currently engaged in a captivating research project that pushes me to transform its inherent challenges into small triumphs in the massive fields of Computer Vision, Deep Learning and Explainable Artifiical Intelligence.
 * If you have a project, an idea, or just a shared passion for technology, count me in!
-* I am alwyas eager to contribute, learn and grow alongside fellow enthusiasts.
+* I am always eager to contribute, learn and grow alongside fellow enthusiasts.
 
   
 ## Languages and Tools
